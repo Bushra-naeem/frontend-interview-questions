@@ -43,6 +43,11 @@ This is a collection of helpful frontend-related interview questions that can he
 - What is Temporal dead zone?
 - Define the concept of Hoisting.
 - Difference b/w Null and undefined.
+- Difference b/w traditional functions and arrow functions in JavaScript.
+- What is debouncing and throttling.
+- In how many ways you can create objects in javascript.
+- Explain this keyword in JavaScript.
+- Difference b/w axios and fetch.
 
 ## React.js Questions
 
@@ -57,6 +62,7 @@ This is a collection of helpful frontend-related interview questions that can he
 - Is react a library or framework?
 - How would you optimize a react app?
 - Will the use effect hook run if we don't pass the dependency array ?
+- Difference b/w local storage, session storage and cookies?
 
 ## Next.js Questions
 
