@@ -16,6 +16,8 @@ This is a collection of helpful frontend-related interview questions that can he
 - What are the new features introduced in HTML5?
 - How do you optimize the accessibility of a web page?
 - Explain the difference between `div` and `section`.
+- What is the difference between “display: none” and “visibility: hidden”, when used as attributes to the HTML element.
+- What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements?
 
 ## CSS Questions
 
