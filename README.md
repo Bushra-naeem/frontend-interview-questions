@@ -65,6 +65,7 @@ This is a collection of helpful frontend-related interview questions that can he
 - How would you optimize a react app?
 - Will the use effect hook run if we don't pass the dependency array ?
 - Difference b/w local storage, session storage and cookies?
+- What is the use of React.Memo, useMemo and useCallback?
 
 ## Next.js Questions
 
